@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **SQL**
 
-- 📫 How to reach me **gustav0rozco@proton.me**
+- 📫 How to reach me **info@editorialnogal.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
