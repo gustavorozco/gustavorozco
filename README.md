@@ -1,27 +1,60 @@
-[![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)](https://linktr.ee/gustavorozco)
-<h1 align="center">Hi 👋, I'm Gustavo Orozco</h1>
-<h3 align="center">A passionate Backend developer from México.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
+<h1 align="center">Gustavo Orozco</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavorozco&label=Profile%20views&color=0e75b6&style=flat" alt="gustavorozco" /> </p>
-
-<p align="left"> <a href="https://twitter.com/gustavorozco" target="blank"><img src="https://img.shields.io/twitter/follow/gustavorozco?logo=twitter&style=for-the-badge" alt="gustavorozco" /></a> </p>
-
-- 🌱 I’m currently learning **SQL**
-
-- 📫 How to reach me **info@editorialnogal.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gustavorozco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gustavorozco" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gustavorozco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavorozco" height="30" width="40" /></a>
-<a href="https://fb.com/gustavorozco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gustavorozco" height="30" width="40" /></a>
-<a href="https://instagram.com/gustavorozco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gustavorozco" height="30" width="40" /></a>
+<p align="center">
+  <b>Founder & Editorial Director at <a href="https://editorialnogal.com">Editorial Nogal</a></b><br>
+  Building an AI-native, independent publishing house from Mexico: the product, the automation and the book-production pipeline.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://editorialnogal.com">editorialnogal.com</a> ·
+  <a href="https://linkedin.com/in/gustavorozco">LinkedIn</a> ·
+  <a href="https://x.com/gustavorozco">X</a> ·
+  <a href="https://instagram.com/gustavorozco">Instagram</a> ·
+  <a href="mailto:info@editorialnogal.com">info@editorialnogal.com</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavorozco&show_icons=true&locale=en&layout=compact" alt="gustavorozco" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavorozco&show_icons=true&locale=en" alt="gustavorozco" /></p>
+### What I build
+
+**editorialnogal.com** — The commerce and client platform for the publishing house. Next.js and TypeScript on PostgreSQL, Stripe checkout with Mexican invoicing (CFDI) data, and role-based dashboards for authors and editors. Self-hosted with Docker behind a reverse proxy.
+
+**Editorial pipeline** — n8n workflows that take a book from purchase to manuscript: client onboarding, e-signature contracts and verified daily backups, plus a multi-agent research-and-writing stage where planner, writer and auditor roles run on Claude and Gemini. The auditor's job is to reject claims the research can't support; sources come from Crossref, Semantic Scholar, the World Bank and INEGI.
+
+**Formato Nogal** — The typesetting engine behind our books. Markdown in, print-ready PDF (Amazon KDP) and EPUB out, through Pandoc, XeLaTeX, custom Lua filters and Python normalization scripts.
+
+### How I work
+
+I design the systems and direct the engineering through AI coding agents. Architecture, code review, evidence-based debugging and deploys are my responsibility; agents do most of the typing. Every change ships with a verification step and a rollback point.
+
+### Stack
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Pandoc](https://img.shields.io/badge/Pandoc-444444?style=flat-square)
+
+### Right now
+
+- Producing a 12-volume nonfiction series end to end through our own pipeline.
+- Exploring locally hosted models to keep the editorial voice consistent without depending on external APIs.
+
+### Background
+
+Author of three published nonfiction books, with works registered at INDAUTOR. Backend certificate from Oracle.
+
+---
+
+<p align="center">
+  Not looking for a job. Happy to connect with people building in publishing, research tooling or document automation.
+</p>
